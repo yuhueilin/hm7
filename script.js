@@ -17,7 +17,7 @@ function lastChar(arr){
 }
 
 //squares(a, b)
-function squares(a, b){
+function squares(a,b){
    var squa = a*a+b*b;
    return squa;
 }
